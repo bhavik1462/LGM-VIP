@@ -1,0 +1,29 @@
+body{ 
+    margin: 0;
+    padding: 0;
+    line-height: 0.5;
+    color: rgb(0, 0, 0);
+	font-size: 35;
+    font-family: sans-serif;
+
+}
+table
+{
+	margin-top: 50px;
+	text-align: center;
+	background: rgb(0, 0, 0);
+	color: #fff;
+}
+.table:hover
+{
+    background: #5f5f5f;
+}
+#show th, 
+#show td
+{
+	padding: 13px;
+}
+
+#btna td input{
+	width: 100%;
+}
